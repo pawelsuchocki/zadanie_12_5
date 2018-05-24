@@ -1,0 +1,40 @@
+body {
+	margin: 0 auto;
+	background-color: #55ACEE;
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.title {
+	font-size: 50px;
+	margin: 100px auto;
+	font-weight: 100;
+}
+.quote {
+	font-size: 18px;
+	margin-bottom: 30px;
+	font-weight: 100;
+}
+.author {
+	font-size: 18px;
+	margin-bottom: 100px;
+	font-weight: 100;
+}
+.button {
+	width: 300px;
+	height: 30px;
+	background-color: inherit;
+	border: thin solid #ffffff;
+	border-radius: 4px;
+	margin: 15px auto;
+	color: #ffffff;
+}
+.fab {
+	color: #ffffff;
+	transform: scale(1.5);
+	margin-right: 8px;
+}
+.tweet {
+	color: #ffffff;
+	text-decoration: none;
+}
